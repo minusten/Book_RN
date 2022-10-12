@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "epubjs": "^0.3.84",
+    "epubjs": "^0.3.93",
     "epubjs-rn": "^0.1.5",
     "react": "16.9.0",
     "react-native": "0.61.4",
